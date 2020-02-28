@@ -1,1 +1,1 @@
-Check it out at owang1.github.io
+View it at [owang1.github.io](https://owang1.github.io)
